@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋 I'm Gobind Patel
 
-<!--
-**GobindPatel2441/GobindPatel2441** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student – Artificial Intelligence & Machine Learning  
+📍 Bhubaneswar, India  
 
-Here are some ideas to get you started:
+I am passionate about building **AI-driven and full-stack applications** that solve real-world problems.  
+Currently exploring **Machine Learning, Python, and scalable software systems**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+**Languages:**  
+Python • C • SQL  
+
+**Web Development:**  
+HTML • CSS • JavaScript • Bootstrap • PHP • MySQL • WordPress  
+
+**Tools:**  
+Git • GitHub • Linux • Jupyter Notebook  
+
+## 🚀 What I'm Working On
+- AI-powered applications  
+- Machine learning projects  
+- Full-stack web development  
+
+## 📜 Certifications
+- Python Programming — Ministry of MSME  
+- C Programming — Ministry of MSME  
+- Full Stack Development Internship — OCAC  
+
+📫 **Contact:**  
+Email: gobindpatel2005@gmail.com
+Linkedin: https://www.linkedin.com/in/gobind-patel-807347320/
