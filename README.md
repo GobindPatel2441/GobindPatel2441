@@ -11,10 +11,10 @@ Currently exploring **Machine Learning, Python, and scalable software systems**.
 Python • C • SQL  
 
 **Web Development:**  
-HTML • CSS • JavaScript • Bootstrap • PHP • MySQL • WordPress  
+HTML • CSS • JavaScript • Bootstrap • PHP • MySQL
 
 **Tools:**  
-Git • GitHub • Linux • Jupyter Notebook  
+Git • GitHub • Jupyter Notebook  
 
 ## 🚀 What I'm Working On
 - AI-powered applications  
