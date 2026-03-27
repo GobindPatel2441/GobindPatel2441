@@ -24,10 +24,10 @@ Currently exploring **Machine Learning, Python, and scalable software systems**.
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=GobindPatel2441&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=GobindPatel2441&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GobindPatel2441&theme=aura&hide_border=true&layout=compact" height="180"/>
 </p>
 
----
 
 ## 🏆 Achievements
 
@@ -37,6 +37,12 @@ Currently exploring **Machine Learning, Python, and scalable software systems**.
 
 
 ---
+<!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/GobindPatel2441/GobindPatel2441/blob/output/github-snake-dark.svg)
+</div>
+
 
 📫 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gobind-patel-807347320/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gobindpatel2005@gmail.com) 
