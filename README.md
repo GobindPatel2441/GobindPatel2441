@@ -32,11 +32,6 @@ Git • GitHub • Jupyter Notebook
 
 
 ---
----
-
-! [Activity Graph](https://github-readme-activity-graph.vercel.app/gaph?username=GobindPatel2441&theme=react-dark)
-
----
 
 ## 🚀 What I'm Working On
 - AI-powered applications  
