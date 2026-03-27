@@ -16,6 +16,23 @@ HTML • CSS • JavaScript • Bootstrap • PHP • MySQL
 **Tools:**  
 Git • GitHub • Jupyter Notebook  
 
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=GobindPatel2441&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GobindPatel2441&theme=onestar&no-frame=true&row=1&column=6"/>
+</p>
+
+
+---
+
 ## 🚀 What I'm Working On
 - AI-powered applications  
 - Machine learning projects  
