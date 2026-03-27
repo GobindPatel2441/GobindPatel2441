@@ -38,10 +38,10 @@ Currently exploring **Machine Learning, Python, and scalable software systems**.
 
 ---
 <!-- Snake Animation -->
-<div align="center">
-    
-  ![snake gif](https://github.com/GobindPatel2441/GobindPatel2441/blob/output/github-snake-dark.svg)
-</div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/GobindPatel2441/GobindPatel2441/output/snake.svg" alt="Snake animation" />
 
 
 📫 ## 🌐 Socials:
