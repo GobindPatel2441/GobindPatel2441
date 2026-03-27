@@ -37,12 +37,6 @@ Currently exploring **Machine Learning, Python, and scalable software systems**.
 
 
 ---
-<!-- Snake Animation -->
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/GobindPatel2441/GobindPatel2441/output/snake.svg" alt="Snake animation" />
-
 
 📫 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gobind-patel-807347320/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gobindpatel2005@gmail.com) 
